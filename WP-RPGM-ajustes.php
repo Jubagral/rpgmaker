@@ -54,7 +54,7 @@ class WPRPGM_Ajustes
      */
     public function includes()
     {
-        // Incluir functions.php
+        // Incluir includes/functions.php
         include_once(WPRPGM_ABSPATH . 'functions.php' );
     }
     
