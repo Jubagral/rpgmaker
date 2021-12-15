@@ -1,4 +1,4 @@
-# WPRPGM Ajustes
+# RPG Maker para WordPress
 
-WPRPGM Ajustes es un plugin para Wordpress "en blanco", donde se pueda incluir de manera 
-organizada los ajustes necesarios para su sitio web de Wordpress o WooCommerce.# rpgmaker
+RPG Maker es un plugin para Wordpress, destinado "DJ", Directores de juegos de rol, 
+puedan crear partidas y logs para sus jugadores. 
