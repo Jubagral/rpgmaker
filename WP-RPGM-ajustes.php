@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Plugin Name: WPRPGM Ajustes
- * Description: Plugin en blanco para hacer ajustes en Wordpress y WooCommerce.
- * Version: 1.0.1
- * Author: Mario <mario@webintegral.com.co>
- * Plugin URI: https://webintegral.com.co/blog/como-crear-un-plugin-propio-para-hacer-todos-los-ajustes-de-wordpress-y-woocommercer/
+ * Plugin Name: RPG Maker.
+ * Description: Plugin para crear partidas de rol inline.
+ * Version: 0.0.1
+ * Author: jubagra <jubagral@gmail.com.com>
+ * Plugin URI: https://
  *
  * THE SOFTWARE IS PROVIDED "AS IS", WPRPGMTHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
  * INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
